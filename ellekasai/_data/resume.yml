@@ -1,0 +1,26 @@
+# IMPORTANT: Set this to false.
+demo: false
+navbar: false
+
+# Theme customization is done on this file instead of _config.yml so that
+# you don't have to restart Jekyll to see changes.
+
+photo: "https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/11917494_10205977463214850_3180097162471028653_n.jpg?oh=0bedfb639c1bbdf18b07024e0895b6a7&oe=5AD2A01F"
+name: "Tulakan Ruangrong"
+copy: ""
+# copy: "I'm a UI/UX Developer based in Vancouver, Canada. Five years experience in design/development and my specialty is information architecture as well as rapid prototyping with scalable/modular CSS."
+
+# Color scheme based on http://www.materialui.co/colors.
+# Possible values:
+# - default
+# - red
+# - pink
+# - brown
+# - blue
+# - purple
+# - teal
+# - green
+color: blue
+
+
+
